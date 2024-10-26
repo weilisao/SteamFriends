@@ -43,3 +43,4 @@
 | ![](https://avatars.steamstatic.com/d7208034d60de9a7a14f688bfcc8de56cf89663a.jpg) | 小子王                           | [76561198863452162](https://steamcommunity.com/profiles/76561198863452162/) | ✅           | 2019-06-07 03:44:55 |          |
 | ![](https://avatars.steamstatic.com/6db7386a19cc7881692e784f6d8c7e0b0724d8d8.jpg) | Barry                         | [76561199131042123](https://steamcommunity.com/profiles/76561199131042123/) | ✅           | 2021-02-13 08:15:00 |          |
 | ![](https://avatars.steamstatic.com/cbc910b68a51cfb6b2824ef6f0039b3415b3c7ac.jpg) | 7wb8x                         | [76561198864567272](https://steamcommunity.com/profiles/76561198864567272/) | ✅           | 2021-08-27 01:37:50 |          |
+| ![](https://avatars.steamstatic.com/3347685d5b0ffdf9fb2eacdabdcfe12d672d3294.jpg) | 送神                            | [76561199170765869](https://steamcommunity.com/profiles/76561199170765869/) | ✅           | 2024-10-25 13:44:26 |          |
